@@ -2,11 +2,6 @@
 
 A template for speeding up the process of creating new PHP projects. Includes `phpunit` and `php-cs-fixer`.
 
-## Installation
-
-```bash
-$ composer create-project aldjordje/php-project-template project-name
-```
 ### Don't forget to update files!
 1. `composer.json` (`name`, `description`, `keywords`, `authors`, `namespace`)
 2. `CHANGELOG.md`
